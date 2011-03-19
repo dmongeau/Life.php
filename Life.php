@@ -14,3 +14,11 @@ class Life {
 	}
 
 }
+
+class Atom {
+
+	public function __construct() {
+		
+	}
+
+}

@@ -7,10 +7,10 @@ set_time_limit(0);
 define('YEAR',3600*24*365);
 sleep(5000000000*YEAR);
 
-
 class Life {
 
-
-
+	public function __construct() {
+		
+	}
 
 }

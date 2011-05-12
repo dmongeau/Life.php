@@ -19,10 +19,15 @@ sleep(5000000000*YEAR);
  */
 class Life {
 
+	protected $theAnswer = 42;
+	
 	public function __construct() {
 		
 	}
 
+	public function getTheAnswer() {
+		return $this->theAnswer;
+	}
 }
 
 

@@ -25,7 +25,7 @@ class Life {
 		
 	}
 
-	public function getTheAnswer() {
+	public function getTheAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything() {
 		return $this->theAnswer;
 	}
 }
